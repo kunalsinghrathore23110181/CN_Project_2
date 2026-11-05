@@ -1,0 +1,19 @@
+{
+  "source": "results",
+  "runs": 50,
+  "mean_gbps": 55.189160493167876,
+  "median_gbps": 56.04275533584093,
+  "stddev_gbps": 3.3005750217351157,
+  "min_gbps": 39.437773916014024,
+  "max_gbps": 60.07407354534696,
+  "mean_sender_process_cpu_pct": 98.83914383197609,
+  "mean_receiver_process_cpu_pct_including_flags": 62.28489844959022,
+  "receiver_cpu_values_flagged": [
+    [
+      1,
+      2.576157052311518
+    ]
+  ],
+  "cpu_efficiency_measured": false,
+  "explanation": "Not a physical 100Gbps NIC result. Process CPU and guest-wide CPU are different metrics."
+}

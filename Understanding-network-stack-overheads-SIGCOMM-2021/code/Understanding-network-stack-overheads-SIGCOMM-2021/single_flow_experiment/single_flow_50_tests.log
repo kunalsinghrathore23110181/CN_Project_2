@@ -1,0 +1,254 @@
+
+Starting single-flow test 1/50
+Throughput: 39.4378 Gbps
+Sender CPU: 96.15769717368887%
+Receiver CPU: 2.576157052311518%
+
+Starting single-flow test 2/50
+Throughput: 52.9118 Gbps
+Sender CPU: 97.87405896143122%
+Receiver CPU: 63.109799957607414%
+
+Starting single-flow test 3/50
+Throughput: 53.4974 Gbps
+Sender CPU: 97.64345337613186%
+Receiver CPU: 62.75048194395067%
+
+Starting single-flow test 4/50
+Throughput: 56.3458 Gbps
+Sender CPU: 98.49659516199921%
+Receiver CPU: 63.56003236586365%
+
+Starting single-flow test 5/50
+Throughput: 52.4997 Gbps
+Sender CPU: 99.3371024853759%
+Receiver CPU: 64.16525876907666%
+
+Starting single-flow test 6/50
+Throughput: 54.2485 Gbps
+Sender CPU: 99.51320381507381%
+Receiver CPU: 64.72078643561277%
+
+Starting single-flow test 7/50
+Throughput: 52.6965 Gbps
+Sender CPU: 98.9795597393499%
+Receiver CPU: 62.22386980666481%
+
+Starting single-flow test 8/50
+Throughput: 55.0032 Gbps
+Sender CPU: 99.49743242819147%
+Receiver CPU: 64.93754881506834%
+
+Starting single-flow test 9/50
+Throughput: 53.0887 Gbps
+Sender CPU: 99.28581069263647%
+Receiver CPU: 65.15915029337523%
+
+Starting single-flow test 10/50
+Throughput: 57.4935 Gbps
+Sender CPU: 99.42900316201454%
+Receiver CPU: 65.72317797832291%
+
+Starting single-flow test 11/50
+Throughput: 52.9694 Gbps
+Sender CPU: 99.06393486208486%
+Receiver CPU: 60.454369413325345%
+
+Starting single-flow test 12/50
+Throughput: 54.4120 Gbps
+Sender CPU: 99.4291846966316%
+Receiver CPU: 64.42040504419569%
+
+Starting single-flow test 13/50
+Throughput: 55.3500 Gbps
+Sender CPU: 99.43248833302222%
+Receiver CPU: 63.174274980814594%
+
+Starting single-flow test 14/50
+Throughput: 52.0782 Gbps
+Sender CPU: 99.21974371219325%
+Receiver CPU: 60.49633315842583%
+
+Starting single-flow test 15/50
+Throughput: 51.6414 Gbps
+Sender CPU: 99.09267934639539%
+Receiver CPU: 60.904516843034905%
+
+Starting single-flow test 16/50
+Throughput: 50.9339 Gbps
+Sender CPU: 97.39929890813086%
+Receiver CPU: 58.584668863432654%
+
+Starting single-flow test 17/50
+Throughput: 54.9359 Gbps
+Sender CPU: 99.44292066440073%
+Receiver CPU: 60.77838089274565%
+
+Starting single-flow test 18/50
+Throughput: 56.6300 Gbps
+Sender CPU: 99.10954365337035%
+Receiver CPU: 62.97579201827537%
+
+Starting single-flow test 19/50
+Throughput: 53.8973 Gbps
+Sender CPU: 98.86364122869541%
+Receiver CPU: 62.3373504976508%
+
+Starting single-flow test 20/50
+Throughput: 55.3424 Gbps
+Sender CPU: 99.32104296825156%
+Receiver CPU: 63.11252926353761%
+
+Starting single-flow test 21/50
+Throughput: 54.2534 Gbps
+Sender CPU: 99.23522072030528%
+Receiver CPU: 61.16220034308741%
+
+Starting single-flow test 22/50
+Throughput: 54.2999 Gbps
+Sender CPU: 99.30483243991264%
+Receiver CPU: 61.16089475811886%
+
+Starting single-flow test 23/50
+Throughput: 53.0093 Gbps
+Sender CPU: 99.23252438595482%
+Receiver CPU: 61.50110190157233%
+
+Starting single-flow test 24/50
+Throughput: 55.9852 Gbps
+Sender CPU: 99.39122407950357%
+Receiver CPU: 62.48658343731466%
+
+Starting single-flow test 25/50
+Throughput: 56.4570 Gbps
+Sender CPU: 98.21934235950057%
+Receiver CPU: 61.1895681880489%
+
+Starting single-flow test 26/50
+Throughput: 57.6657 Gbps
+Sender CPU: 99.47590105292802%
+Receiver CPU: 63.105408615928084%
+
+Starting single-flow test 27/50
+Throughput: 54.0816 Gbps
+Sender CPU: 97.79379072930024%
+Receiver CPU: 62.92496687159211%
+
+Starting single-flow test 28/50
+Throughput: 56.3247 Gbps
+Sender CPU: 99.37875766738937%
+Receiver CPU: 65.58053154417645%
+
+Starting single-flow test 29/50
+Throughput: 59.4100 Gbps
+Sender CPU: 99.50320601084309%
+Receiver CPU: 66.77918209904388%
+
+Starting single-flow test 30/50
+Throughput: 54.4346 Gbps
+Sender CPU: 99.20399431629974%
+Receiver CPU: 63.18201117492828%
+
+Starting single-flow test 31/50
+Throughput: 56.1003 Gbps
+Sender CPU: 99.38354494736011%
+Receiver CPU: 63.20137802516197%
+
+Starting single-flow test 32/50
+Throughput: 56.7233 Gbps
+Sender CPU: 96.87797084944691%
+Receiver CPU: 63.24701642898272%
+
+Starting single-flow test 33/50
+Throughput: 57.0601 Gbps
+Sender CPU: 99.3250137753813%
+Receiver CPU: 65.42802521779826%
+
+Starting single-flow test 34/50
+Throughput: 56.4827 Gbps
+Sender CPU: 99.01315435765851%
+Receiver CPU: 63.89686050587529%
+
+Starting single-flow test 35/50
+Throughput: 57.7431 Gbps
+Sender CPU: 99.53774358958533%
+Receiver CPU: 65.43090096705923%
+
+Starting single-flow test 36/50
+Throughput: 58.8043 Gbps
+Sender CPU: 99.16312790732694%
+Receiver CPU: 65.99832072884332%
+
+Starting single-flow test 37/50
+Throughput: 57.9940 Gbps
+Sender CPU: 98.57140674266154%
+Receiver CPU: 65.4218301987876%
+
+Starting single-flow test 38/50
+Throughput: 57.5803 Gbps
+Sender CPU: 99.40333235430285%
+Receiver CPU: 64.08507700520738%
+
+Starting single-flow test 39/50
+Throughput: 56.8931 Gbps
+Sender CPU: 99.4036591118019%
+Receiver CPU: 64.65333547801256%
+
+Starting single-flow test 40/50
+Throughput: 58.3269 Gbps
+Sender CPU: 98.14006322221508%
+Receiver CPU: 64.12349746201848%
+
+Starting single-flow test 41/50
+Throughput: 60.0741 Gbps
+Sender CPU: 99.38022911318679%
+Receiver CPU: 65.15033315552134%
+
+Starting single-flow test 42/50
+Throughput: 59.1666 Gbps
+Sender CPU: 99.34967501916461%
+Receiver CPU: 65.66381095094357%
+
+Starting single-flow test 43/50
+Throughput: 50.3874 Gbps
+Sender CPU: 99.04222446522171%
+Receiver CPU: 62.36415263913733%
+
+Starting single-flow test 44/50
+Throughput: 56.3169 Gbps
+Sender CPU: 99.10394435377152%
+Receiver CPU: 63.56839146342087%
+
+Starting single-flow test 45/50
+Throughput: 57.8010 Gbps
+Sender CPU: 98.93098316919608%
+Receiver CPU: 66.05245234713762%
+
+Starting single-flow test 46/50
+Throughput: 57.4771 Gbps
+Sender CPU: 98.92677553171143%
+Receiver CPU: 65.13391011757548%
+
+Starting single-flow test 47/50
+Throughput: 57.7879 Gbps
+Sender CPU: 98.8143596923486%
+Receiver CPU: 65.1666137004939%
+
+Starting single-flow test 48/50
+Throughput: 56.8105 Gbps
+Sender CPU: 99.38513992500447%
+Receiver CPU: 65.26728591718135%
+
+Starting single-flow test 49/50
+Throughput: 50.7306 Gbps
+Sender CPU: 93.92412002669045%
+Receiver CPU: 59.43313488587727%
+
+Starting single-flow test 50/50
+Throughput: 57.8631 Gbps
+Sender CPU: 98.95353431376184%
+Receiver CPU: 65.72126195737215%
+
+EXPERIMENT COMPLETE
+Average throughput: 55.1892 Gbps
+Results saved in results/
